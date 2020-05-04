@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+}
+
+.container article {
+    flex: 1 0 50%;
+}
+
+#messageOne {
+    border: 1px solid blue;
+}
+
+#messageTwo {
+    border: 1px solid red;
+}
